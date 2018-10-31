@@ -244,4 +244,19 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
 	}
 }
 
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+    .resume-wrapper {
+	    padding-top: 0;
+    }
+	
+	.resume-header {
+		height: auto;
+	}
+	.resume-header .picture {
+		width: 120px;
+		@include border-radius(4px);
+	}
 
+	
+}
