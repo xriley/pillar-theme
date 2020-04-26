@@ -7,9 +7,10 @@
 		"uuidString": "36B828C7-424B-4528-B98F-DC56249E4FB2"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "32001",
 "files": {
 	"/bootstrap/js/dist/alert.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -22,11 +23,13 @@
 	"/bootstrap/js/dist/alert.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/alert.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/button.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -39,11 +42,13 @@
 	"/bootstrap/js/dist/button.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/button.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/carousel.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -56,11 +61,13 @@
 	"/bootstrap/js/dist/carousel.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/carousel.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/collapse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -73,11 +80,13 @@
 	"/bootstrap/js/dist/collapse.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/collapse.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -90,11 +99,13 @@
 	"/bootstrap/js/dist/dropdown.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/dropdown.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/index.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -107,11 +118,13 @@
 	"/bootstrap/js/dist/index.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/index.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/modal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -124,11 +137,13 @@
 	"/bootstrap/js/dist/modal.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/modal.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/popover.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -141,11 +156,13 @@
 	"/bootstrap/js/dist/popover.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/popover.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/scrollspy.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -158,11 +175,13 @@
 	"/bootstrap/js/dist/scrollspy.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/scrollspy.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/tab.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -175,11 +194,32 @@
 	"/bootstrap/js/dist/tab.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/tab.js.map",
 		"oF": 0
 		},
+	"/bootstrap/js/dist/toast.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/bootstrap/js/dist/toast-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bootstrap/js/dist/toast.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bootstrap/js/dist/toast.js.map",
+		"oF": 0
+		},
 	"/bootstrap/js/dist/tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -192,11 +232,13 @@
 	"/bootstrap/js/dist/tooltip.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/tooltip.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/dist/util.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -209,11 +251,13 @@
 	"/bootstrap/js/dist/util.js.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/dist/util.js.map",
 		"oF": 0
 		},
 	"/bootstrap/js/src/alert.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -224,6 +268,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/button.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -234,6 +279,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/carousel.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -244,6 +290,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/collapse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -254,6 +301,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -264,6 +312,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/index.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -274,6 +323,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/modal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -284,6 +334,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/popover.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -294,6 +345,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/scrollspy.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -304,6 +356,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/tab.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -313,7 +366,30 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/bootstrap/js/src/toast.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/bootstrap/js/src/toast-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bootstrap/js/src/tools/sanitizer.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/bootstrap/js/src/tools/sanitizer-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/bootstrap/js/src/tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -324,6 +400,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/src/util.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -333,24 +410,57 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/bootstrap/js/tests/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/bootstrap/js/tests/index.html",
-		"oF": 0
-		},
-	"/bootstrap/js/tests/karma-bundle.conf.js": {
+	"/bootstrap/js/tests/browsers.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/bootstrap/js/tests/karma-bundle.conf-min.js",
+		"oAP": "/bootstrap/js/tests/browsers-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bootstrap/js/tests/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bootstrap/js/tests/index.html",
+		"oF": 0
+		},
+	"/bootstrap/js/tests/integration/bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/bootstrap/js/tests/integration/bundle-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/bootstrap/js/tests/integration/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bootstrap/js/tests/integration/index.html",
+		"oF": 0
+		},
+	"/bootstrap/js/tests/integration/rollup.bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/bootstrap/js/tests/integration/rollup.bundle-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
 	"/bootstrap/js/tests/karma.conf.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -368,6 +478,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/README.html",
 		"oF": 0,
@@ -387,6 +498,7 @@
 		"oS": 1
 		},
 	"/bootstrap/js/tests/unit/alert.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -397,6 +509,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/button.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -407,6 +520,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/carousel.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -417,6 +531,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/collapse.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -427,6 +542,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/dropdown.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -437,6 +553,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/modal.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -447,6 +564,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/popover.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -457,6 +575,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/scrollspy.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -467,6 +586,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/tab.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -476,7 +596,19 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/bootstrap/js/tests/unit/toast.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/bootstrap/js/tests/unit/toast-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/bootstrap/js/tests/unit/tooltip.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -487,6 +619,7 @@
 		"tS": 0
 		},
 	"/bootstrap/js/tests/unit/util.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -499,6 +632,7 @@
 	"/bootstrap/js/tests/visual/alert.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/alert.html",
 		"oF": 0
@@ -506,6 +640,7 @@
 	"/bootstrap/js/tests/visual/button.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/button.html",
 		"oF": 0
@@ -513,6 +648,7 @@
 	"/bootstrap/js/tests/visual/carousel.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/carousel.html",
 		"oF": 0
@@ -520,6 +656,7 @@
 	"/bootstrap/js/tests/visual/collapse.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/collapse.html",
 		"oF": 0
@@ -527,6 +664,7 @@
 	"/bootstrap/js/tests/visual/dropdown.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/dropdown.html",
 		"oF": 0
@@ -534,6 +672,7 @@
 	"/bootstrap/js/tests/visual/modal.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/modal.html",
 		"oF": 0
@@ -541,6 +680,7 @@
 	"/bootstrap/js/tests/visual/popover.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/popover.html",
 		"oF": 0
@@ -548,6 +688,7 @@
 	"/bootstrap/js/tests/visual/scrollspy.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/scrollspy.html",
 		"oF": 0
@@ -555,13 +696,23 @@
 	"/bootstrap/js/tests/visual/tab.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/tab.html",
+		"oF": 0
+		},
+	"/bootstrap/js/tests/visual/toast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bootstrap/js/tests/visual/toast.html",
 		"oF": 0
 		},
 	"/bootstrap/js/tests/visual/tooltip.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/bootstrap/js/tests/visual/tooltip.html",
 		"oF": 0
@@ -943,6 +1094,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/bootstrap/scss/_spinners.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bootstrap/scss/_spinners.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/bootstrap/scss/_tables.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -952,6 +1116,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/bootstrap/scss/_tables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/bootstrap/scss/_toasts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bootstrap/scss/_toasts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1173,6 +1350,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/bootstrap/scss/mixins/_clearfix.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/bootstrap/scss/mixins/_deprecate.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bootstrap/scss/mixins/_deprecate.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1554,6 +1744,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/bootstrap/scss/utilities/_overflow.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bootstrap/scss/utilities/_overflow.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/bootstrap/scss/utilities/_position.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1619,6 +1822,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/bootstrap/scss/utilities/_stretched-link.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bootstrap/scss/utilities/_stretched-link.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/bootstrap/scss/utilities/_text.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1641,6 +1857,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/bootstrap/scss/utilities/_visibility.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/bootstrap/scss/vendor/_rfs.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/bootstrap/scss/vendor/_rfs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1737,6 +1966,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -1748,6 +1978,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "'node_modules/**', 'bower_components/**', /\\/core-js\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -1818,6 +2049,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -1839,6 +2076,36 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
 		"modules-amd": {
 			"active": 0
 			},
@@ -1849,6 +2116,9 @@
 			"active": 0
 			},
 		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
 			"active": 0
 			},
 		"new-target": {
@@ -1884,7 +2154,13 @@
 		"parameters": {
 			"active": 0
 			},
+		"partial-application": {
+			"active": 0
+			},
 		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
 			"active": 0
 			},
 		"property-literals": {
@@ -1920,10 +2196,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -1967,11 +2249,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -2116,6 +2397,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -2220,6 +2502,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-param-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"dot-location": {
 			"active": 0,
 			"optionString": "'object'"
@@ -2271,6 +2557,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -2448,6 +2738,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -2473,6 +2767,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -2566,6 +2864,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -2772,6 +3074,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -2869,6 +3175,10 @@
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-catch": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2972,6 +3282,14 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -2983,6 +3301,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3534,6 +3856,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3555,6 +3878,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -3577,7 +3901,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3589,7 +3914,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -3616,6 +3940,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3625,7 +3950,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3646,7 +3972,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3675,7 +4002,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -3718,8 +4046,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
@@ -3763,16 +4099,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -3784,14 +4124,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3814,6 +4154,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -3839,10 +4183,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -3851,13 +4191,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -3869,6 +4209,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -3891,13 +4235,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -3906,10 +4250,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -3933,6 +4273,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -3967,6 +4311,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -3976,6 +4324,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4003,15 +4355,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
