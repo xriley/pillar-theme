@@ -1,10 +1,10 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/05/Bootstrap-Resume-CV-Template-Pillar-Pormo.jpg" alt="Bootstrap 4 Resume/CV Template for Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/05/Bootstrap-Resume-CV-Template-Pillar-Pormo.jpg" alt="Bootstrap 5 Resume/CV Template for Developers" /></a>
 
 ## Theme Details & Demo
 
 **Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/
 
-Pillar is a **free Bootstrap 4 resume/CV template** I made for developers. Built on **Bootstrap 4 and SASS**, it's quick and easy to change the template styling. This template is designed to **help you with your job hunting** and **boost your chances of getting the web development job you want**!
+Pillar is a **free Bootstrap 5 resume/CV template** I made for developers. Built on **Bootstrap 5 and SASS**, it's quick and easy to change the template styling. This template is designed to **help you with your job hunting** and **boost your chances of getting the web development job you want**!
 
 **Want to have a printable version?** We’ve released a [free Sketch template](https://themes.3rdwavemedia.com/resources/sketch-template/pillar-sketch-sketch-resume-template-for-developers/) for this theme. [Download Now](https://themes.3rdwavemedia.com/resources/sketch-template/pillar-sketch-sketch-resume-template-for-developers/)
 
@@ -32,7 +32,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**v1.2** - 10 Oct 2020
+**Bootstrap 5 v1.0** - 2021-07-12
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/?target=changelog)
 
@@ -60,7 +60,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 -  Fully Responsive
 -  HTML5 + CSS3
--  Built on Bootstrap 4
+-  Built on Bootstrap 5
 -  **SCSS** source files included
 -  6 Colour Schemes
 -  1000+ FontAwesome 5 icons
