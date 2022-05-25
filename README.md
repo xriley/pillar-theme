@@ -32,7 +32,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v1.0** - 2021-07-12
+**Bootstrap 5 v2.0** - 2022-05-25
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/?target=changelog)
 
@@ -63,7 +63,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 -  Built on Bootstrap 5
 -  **SCSS** source files included
 -  6 Colour Schemes
--  1000+ FontAwesome 5 icons
+-  FontAwesome 6 icons
 -  Compatible with all modern browsers
 
 ## Credits
