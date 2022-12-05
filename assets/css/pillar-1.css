@@ -1,6 +1,6 @@
 /*! 
  * Template Name: Pillar - Bootstrap 5 Resume/CV Template for Developers
- * Version: Bootstrap 5 v2.0
+ * Version: Bootstrap 5 v2.0.1
  * Author: Xiaoying Riley
  * Copyright: 3rd Wave Media
  * Twitter: @3rdwave_themes
@@ -10743,6 +10743,11 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-skill-name {
   font-size: 0.8125rem;
   color: #434E5E;
+}
+
+.badge-light {
+  color: #58677c;
+  background: #F7F8FA;
 }
 
 .resume-degree {

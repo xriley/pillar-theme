@@ -32,7 +32,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v2.0** - 2022-05-25
+**Bootstrap 5 v2.0.1** - 2022-12-05
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/?target=changelog)
 
